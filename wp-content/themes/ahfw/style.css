@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Ancient History Future World
+ Theme URI:    http://ahfwnews.com
+ Description:  Ancient History Future World is a Twenty Fifteen Child Theme
+ Author:       Sabra Duffiney
+ Author URI:   http://sabraduffiney.net
+ Template:     twentyfifteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+* {
+  box-sizing: border-box; }
+
+html, body {
+  padding: 0px;
+  margin: 0px; }
+
+/*# sourceMappingURL=style.css.map */
